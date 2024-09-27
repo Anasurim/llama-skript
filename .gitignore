@@ -167,3 +167,5 @@ cython_debug/
 
 # Virtuelle Umgebung
 meinenv/
+
+.DS_Store
